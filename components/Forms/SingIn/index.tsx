@@ -38,8 +38,6 @@ const SignInForm = () => {
       });
   };
 
-  console.log('loading ------->',loading)
-
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Ingresa tus datos</Text>
